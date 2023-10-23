@@ -26,3 +26,7 @@ operating system because he wanted to<br>
 use the functions of his new PC with an<br>
 80386 processor. Development was done on<br>
 MINIX using the GNU C Compiler.<br>
+
+**Solution**
+
+The solution uses Scala 3 and the main function is the `separateText` which handles the logic function
