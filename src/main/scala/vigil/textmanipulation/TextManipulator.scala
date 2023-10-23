@@ -1,4 +1,5 @@
 package vigil.textmanipulation
+
 object TextManipulator:
   def generateText(text: String, allowedCharacterNumberPerLine: Int): String =
     separateText(text, allowedCharacterNumberPerLine).mkString("\n")
